@@ -1,0 +1,86 @@
+Project Title:
+
+Smart SDLC – AI-Enhanced Software Development Life Cycle
+
+
+---
+
+📌 Project Overview:
+
+Smart SDLC is a next-generation software development approach that integrates Artificial Intelligence (AI) into each phase of the traditional SDLC. 
+The goal is to automate repetitive tasks, improve accuracy, and accelerate development by using AI-powered tools and models like IBM Granite.
+
+
+---
+
+🔁 AI-Enhanced SDLC Phases:
+
+1. Requirement Gathering:
+
+AI chatbots analyze and convert user input into structured requirements.
+
+Natural Language Processing (NLP) is used for requirement extraction.
+
+
+
+2. Planning:
+
+AI estimates time, cost, and resources.
+
+Risk analysis using machine learning models.
+
+
+
+3. Design:
+
+Auto-generation of system architecture diagrams (UML, ER).
+
+AI tools help in user interface mockup generation.
+
+
+
+4. Development:
+
+Code suggestions using IBM Granite AI or GitHub Copilot.
+
+Smart error detection, code optimization, and auto-documentation.
+
+
+
+5. Testing:
+
+AI auto-generates unit and integration test cases.
+
+Smart bug detection, test coverage analysis, and defect prediction.
+
+
+
+6. Deployment:
+
+Continuous integration/deployment (CI/CD) pipelines.
+
+AI-based monitoring of performance, usage, and error logs.
+
+
+
+7. Maintenance:
+
+Predictive maintenance using machine learning.
+
+Real-time feedback analysis and automated bug fixes.
+
+
+
+
+
+---
+
+🛠️ Technologies Used:
+
+AI Models: IBM Granite AI, OpenAI GPT
+
+Languages: Python, JavaScript
+
+Tools: Gradio (for interface), GitHub, Jenkins, Docker, VS Code
+
+Platforms: Google Colab, IBM watsonx.ai, GitHub Pages
